@@ -1,12 +1,12 @@
 ## Recipe Application with RAG ##
-In this project, a recipe application has been prepared with the RAG method using Google Gemini. 
+In this project, a recipe application has been prepared with the RAG method using Google Gemini 2.0-Flash. 
 If the question asked by the user is in the source pdf it retrieves from source, else it finds the answer to the question from the internet in an agentic way.
 
 ## Technologies Used ##
-haystack
-google-ai-haystack
-streamlit
-dotenv
+*haystack
+*google-ai-haystack
+*streamlit
+*dotenv
 
 ## Execution the Code ##
 An .env file is created after pulling the code. File content should be like this:
