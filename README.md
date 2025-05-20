@@ -4,8 +4,11 @@ If the question asked by the user is in the source pdf it retrieves from source,
 
 ## Technologies Used ##
 *haystack
+
 *google-ai-haystack
+
 *streamlit
+
 *dotenv
 
 ## Execution the Code ##
