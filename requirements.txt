@@ -1,7 +1,7 @@
 streamlit
 pypdf
-dotenv
+python-dotenv
 haystack-ai
 google-ai-haystack
 sentence-transformers
-transformers[torch,sentencepiece]
+"transformers[torch,sentencepiece]"
