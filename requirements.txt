@@ -1,0 +1,11 @@
+langchain
+streamlit
+pypdf
+dotenv
+langchain-chroma
+langchain-google-genai
+haystack-ai
+google-ai-haystack
+sentence-transformers
+PyPDF2
+transformers[torch,sentencepiece]
